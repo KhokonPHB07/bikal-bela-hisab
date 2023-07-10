@@ -66,7 +66,7 @@ const Login = () => {
                     <p className="mt-10 text-center text-sm text-gray-500">
                         
                         <a href="#" className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500">
-                           No account ! <Link to ="/register"> register please first</Link>
+                           No account ! <Link to ="/registration"> register please first</Link>
                         </a>
                     </p>
                 </div>
